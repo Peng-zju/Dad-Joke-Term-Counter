@@ -4,13 +4,13 @@
     
 - Backend: Python Flask
 
-- Install and Run
+- Install and Run (Windows)
     - Run server at http://127.0.0.1:5000
-        - In /server directory
-        - `flask/Scripts/activate`
+        - open a terminal, in \server directory
+        - `flask\Scripts\activate`
         - `app.py` 
     - Run client at http://localhost:3000 
-        - In /client directory
+        - open another terminal, in \client directory
         - `yarn install`
         - `yarn start`
 
