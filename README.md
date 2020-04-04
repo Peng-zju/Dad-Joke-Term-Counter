@@ -4,14 +4,6 @@
     
 - Backend: Python Flask
 
-- Preview    
-    - Main page:
-    ![](screenshots/mainpage.png)
-    ![](screenshots/mainpage_s.png)
-    - Joke term count page:
-    ![](screenshots/joketable.png)
-    ![](screenshots/joketable_s.png)
-      
 - Install and Run
     - Run server at http://127.0.0.1:5000
         - In /server directory
@@ -21,4 +13,15 @@
         - In /client directory
         - `yarn install`
         - `yarn start`
+
+- Preview    
+    - Main page:
+    ![](screenshots/mainpage.png)
+    ![](screenshots/mainpage_s.png)
+    
+    - Joke term count page:
+    ![](screenshots/joketable.png)
+    ![](screenshots/joketable_s.png)
+    
+      
 
